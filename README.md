@@ -1,7 +1,7 @@
 # Adopse21-TeamNo2
 Σύστημα αναζήτησης αγγελιών με διάφορες τεχνικές (τουλάχιστον με λέξεις κλειδιά &amp; φίλτρα)
 
-##Μέλη
+## Μέλη
 * [Παναγιωτοπουλος Ευαγγελος](https://github.com/vaggouras21)
 * [Καναβού Χρυσούλα](https://github.com/chrisakanavou)
 * [Χατζημελετιου Δημητρης](https://github.com/chatzimeletiou)
