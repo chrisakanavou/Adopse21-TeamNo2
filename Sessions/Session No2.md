@@ -14,4 +14,4 @@
 * [Δημιουργία κοινού αρχείου για FRs](https://docs.google.com/spreadsheets/d/10nrfTmetFyh_7E4qlqiS05BLNoGm-GZUgrOTJHMj6Jw/edit?usp=sharing&fbclid=IwAR1QRTPw-kPj4jJ8WPOsQlLY4chnjXwDr2XH6n56gU614DP1epyW9x7mG94) 
 * Καταγραφή αρχικών-βασικών tasks
 * Πρώτη ματιά σε .net και Visual Studio enviroment 
-* Κοινοποίηση tutorials στην ομάδα
+* Κοινοποίηση tutorials στην ομάδα για εξοικείωση περιβάλλοντος
