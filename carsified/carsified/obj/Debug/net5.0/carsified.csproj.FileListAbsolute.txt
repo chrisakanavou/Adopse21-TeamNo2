@@ -38,3 +38,4 @@ C:\Users\vaggo\OneDrive\Έγγραφα\GitHub\Adopse21-TeamNo2\carsified\carsifi
 C:\Users\vaggo\OneDrive\Έγγραφα\GitHub\Adopse21-TeamNo2\carsified\carsified\obj\Debug\net5.0\carsified.pdb
 C:\Users\vaggo\OneDrive\Έγγραφα\GitHub\Adopse21-TeamNo2\carsified\carsified\obj\Debug\net5.0\carsified.genruntimeconfig.cache
 C:\Users\vaggo\OneDrive\Έγγραφα\GitHub\Adopse21-TeamNo2\carsified\carsified\obj\Debug\net5.0\carsified.csproj.CopyComplete
+C:\Users\vaggo\OneDrive\Έγγραφα\GitHub\Adopse21-TeamNo2\carsified\carsified\obj\Debug\net5.0\Razor\Views\Home\login.cshtml.g.cs
