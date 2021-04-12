@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vaggo\\source\\repos\\carsified\\carsified\\carsified.csproj": {}
+    "C:\\Users\\vaggo\\OneDrive\\Έγγραφα\\GitHub\\Adopse21-TeamNo2\\carsified\\carsified\\carsified.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vaggo\\source\\repos\\carsified\\carsified\\carsified.csproj": {
+    "C:\\Users\\vaggo\\OneDrive\\Έγγραφα\\GitHub\\Adopse21-TeamNo2\\carsified\\carsified\\carsified.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vaggo\\source\\repos\\carsified\\carsified\\carsified.csproj",
+        "projectUniqueName": "C:\\Users\\vaggo\\OneDrive\\Έγγραφα\\GitHub\\Adopse21-TeamNo2\\carsified\\carsified\\carsified.csproj",
         "projectName": "carsified",
-        "projectPath": "C:\\Users\\vaggo\\source\\repos\\carsified\\carsified\\carsified.csproj",
+        "projectPath": "C:\\Users\\vaggo\\OneDrive\\Έγγραφα\\GitHub\\Adopse21-TeamNo2\\carsified\\carsified\\carsified.csproj",
         "packagesPath": "C:\\Users\\vaggo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vaggo\\source\\repos\\carsified\\carsified\\obj\\",
+        "outputPath": "C:\\Users\\vaggo\\OneDrive\\Έγγραφα\\GitHub\\Adopse21-TeamNo2\\carsified\\carsified\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
